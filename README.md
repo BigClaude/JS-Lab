@@ -11,5 +11,15 @@ Read the error out lou
 myName , _total , class , $price . Test each one.
 5. Print this sentence with a template literal: My name is ___, I
 am ___ years old and I live in ___.
+6. Store the price of one bread (500) and the number of
+breads (4). Print: 4 breads cost 2000 RWF.
+7. Swap two variables: a = "tea" and b = "coffee" . After
+your code, a must be coffee and b must be tea.
+8. You have const input = "1500" . Add 500 to it so that
+the result is the number 2000, not the text "1500500".
+9. Create a variable without a value and print it. Then give it
+null and print it again. Explain the difference in one
+sentence.
+10. Predict then run: "5" + 5 , "5" - 2 , "5" * "2" , true +
 
  
