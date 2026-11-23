@@ -1,0 +1,1 @@
+// correct names are:myName,_total and $price.
